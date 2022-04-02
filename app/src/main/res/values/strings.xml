@@ -1,10 +1,12 @@
 <resources>
-    <string name="app_name">Android-ParseSdk-Kotlin</string>
+    <string name="app_name">InstantGrindV2</string>
 
 
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
-    
+
     <!-- Paste BOTH strings as required -->
-    <string name="back4app_app_id">YOUR_APP_ID_HERE</string>
-    <string name="back4app_client_key">YOUR_CLIENT_KEY_HERE</string>
+    <string name="back4app_app_id">xkLpIdBe1JOZFkmDN3rSJAVsFQALeOglBfJD1RZD</string>
+    <string name="back4app_client_key">HsaPag8YJUIKFjlAMEE6RU1CD2syb3OEkX0XQvYm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
